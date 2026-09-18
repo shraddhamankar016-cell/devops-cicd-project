@@ -99,8 +99,3 @@ Then create a Pipeline job pointing to this repo — Jenkins will pick up the `J
 
 ---
 
-## Author
-
-Built by [Your Name] as a hands-on DevOps project covering CI/CD, containerization, and Kubernetes deployment.
-
-[LinkedIn](#) · [GitHub](#)
