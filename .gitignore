@@ -1,0 +1,4 @@
+server
+*.exe
+*.log
+.DS_Store
